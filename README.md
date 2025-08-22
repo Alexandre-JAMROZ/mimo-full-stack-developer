@@ -10,9 +10,9 @@ Ci-dessous sont toutes les branches proposées par la voie du Full-stack sur **[
 
 ## 1. Intro to Web Development
 
-- Aperçu du site : https://z07aw1.mimo.run/index.html
+- Aperçu du site : <a href="https://z07aw1.mimo.run/index.html" target="_blank">https://z07aw1.mimo.run/index.html</a>
 - Code source [GitHub] : [1-intro-to-web-development](https://github.com/Alexandre-JAMROZ/mimo-full-stack-developer/tree/main/1-intro-to-web-development)
-- Code source [Mimo]: https://mimo.org/web/shared/7260837
+- Code source [Mimo]: <a href="https://mimo.org/web/shared/7260837?openFileTabs=index.html" target="_blank">https://mimo.org/web/shared/7260837?openFileTabs=index.html</a>
 
 ## 2. Interactive Webpages
 
