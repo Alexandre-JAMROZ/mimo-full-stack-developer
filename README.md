@@ -4,9 +4,9 @@ Actuellement, j'utilise l'application **[mimo.org](https://mimo.org/)** pour dé
 
 J'ai choisis cette voie puisque la conception de site web, que ce soit le côté **front-end** ou bien **back-end**, est particulièrement intéressante à mon goût. Ainsi je développe des compétences en **HTML, CSS, JS, React, NodeJS, Express et SQL**.
 
-Les projets guidés effectués lors de mon apprentissage sont libres et réutilisables.
-
 Ci-dessous sont toutes les branches proposées par la voie du Full-stack sur **[mimo.org](https://mimo.org/)** ainsi que mon avancées, mes projets dans celles-là.
+
+***[LICENSE](https://github.com/Alexandre-JAMROZ/mimo-full-stack-developer?tab=MIT-1-ov-file)***
 
 ## 1. Intro to Web Development
 
